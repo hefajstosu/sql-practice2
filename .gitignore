@@ -1,0 +1,5 @@
+*.duckdb
+*.csv
+.env
+.DS_Store
+.vscode/
